@@ -1,7 +1,7 @@
 {
   "name": "prefiximageswithdate",
   "version": "1.0.0",
-  "description": "Just makes copies of the files in the data-source folder to the data-output folder adding the current date as a file name prefix.",
+  "description": "Add date prefix to files.",
   "main": "index.js",
   "type": "module",
   "engines": {
