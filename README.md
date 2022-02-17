@@ -1,5 +1,5 @@
 # Description
-Just makes copies of the files in the data-source folder to the data-output folder adding the current date as a file name prefix.
+Add date prefix to files.
 
 ex.
 - data-source -> xpto.txt
